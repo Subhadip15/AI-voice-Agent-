@@ -1,4 +1,4 @@
-# 🎤 Subha Voice AI Agent
+# 🎤 Voice AI Agent
 
 A robust Python-based voice assistant designed to automate system power management using natural language processing.
 
